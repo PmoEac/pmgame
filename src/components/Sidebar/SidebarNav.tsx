@@ -1,5 +1,5 @@
 import { Stack } from "@chakra-ui/react";
-import { RiBarChart2Line, RiBookMarkFill, RiContactsLine, RiDashboardLine, RiFileList3Line, RiFolderUserLine, RiGift2Line, RiGitMergeLine, RiInputMethodLine, RiMailSendLine, RiMailUnreadLine, RiMedalLine } from "react-icons/ri"
+import { RiBarChart2Fill, RiBarChart2Line, RiBookMarkFill, RiContactsLine, RiDashboardLine, RiFileList3Line, RiFolderUserLine, RiGift2Line, RiGitMergeLine, RiInputMethodLine, RiMailSendLine, RiMailUnreadLine, RiMedalLine } from "react-icons/ri"
 ;
 import useSWR from "swr";
 import { NavLink } from "./NavLink";
@@ -16,6 +16,7 @@ const { data: user, mutate: mutateUser } = useSWR('/api/user', fetcher);
       <NavSection title="GERAL">
         <NavLink icon={RiDashboardLine} href="/dashboard">Dashboard</NavLink>
         <NavLink icon={RiBookMarkFill} href="/guide">Guia do jogo</NavLink>
+        <NavLink icon={RiBarChart2Fill} href="/performance">Analytics</NavLink>
         {user?.role == 'PMO' && <NavLink icon={RiContactsLine} href="/users">Usuários</NavLink>}
         {user?.role == 'PMO' && <NavLink icon={RiGift2Line} href="/rewards">Recompensas</NavLink>}
         {user?.role == 'PMO' && <NavLink icon={RiMedalLine} href="/badges">Conquistas</NavLink>}
