@@ -24,7 +24,7 @@ export default async (req: NextApiRequest, res: NextApiResponse<Solicitation[] |
           q.Paginate(
             q.Match(
               q.Index('solicitation_by_status'),
-              "Aguardando aprovação"
+              "Aprovada"
             ),
             {size: 20000}
           ),
