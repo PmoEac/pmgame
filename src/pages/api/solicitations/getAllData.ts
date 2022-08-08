@@ -17,11 +17,6 @@ type Solicitation = {
 }
 
 export default async (req: NextApiRequest, res: NextApiResponse<Solicitation[] | any >) => {
-  const token = getAuthCookie(req);
-  
-  if (!token) {
-    return res.status(401).send('Auth cookie not found');
-  }
 
     try {
       const solicitations = await guestClient.query<Solicitation>(
