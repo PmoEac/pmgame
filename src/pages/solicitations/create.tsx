@@ -341,7 +341,8 @@ export default function CreateSolicitation() {
                         label="Mês de Referência"
                         error={errors.month}
                       >
-                        <option key={'Selecione'} value={0}>Selecione o mês</option> 
+                        <option key={'Selecione'} value={0}>Selecione o mês</option>
+                        <option key={'Abril'} value={'Abril'}>Abril</option>  
                         <option key={'Maio'} value={'Maio'}>Maio</option>  
                         <option key={'Junho'} value={'Junho'}>Junho</option>  
                         <option key={'Julho'} value={'Julho'}>Julho</option>  
@@ -496,7 +497,8 @@ export default function CreateSolicitation() {
                         label="Mês de Referência"
                         error={errors.month}
                       >
-                        <option key={'Selecione'} value={0}>Selecione o mês</option> 
+                        <option key={'Selecione'} value={0}>Selecione o mês</option>
+                        <option key={'Abril'} value={'Abril'}>Abril</option>
                         <option key={'Maio'} value={'Maio'}>Maio</option>  
                         <option key={'Junho'} value={'Junho'}>Junho</option>  
                         <option key={'Julho'} value={'Julho'}>Julho</option>  
