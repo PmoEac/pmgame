@@ -103,13 +103,13 @@ export default function Guide() {
                   Qual é o ciclo do game ?
                 </Heading>
                 <Text mb={"8"}>
-                  O ciclo 2022 da gamificação inicará em 01/05/2022 e finalizará em 31/11/2022.
+                  O ciclo 2023 da gamificação inicará em 01/04/2023 e finalizará em 30/11/2023.
                 </Text>
                 <Heading mb={"4"} size="md" fontWeight="normal" alignContent={"left"} textAlign={"left"} alignSelf={'left'}>
                   Quais são os elementos do game ?
                 </Heading>
                 <Text mb={"6"}>
-                  Para o ciclo utilizaremos os elementos: Jogadores, Conquistas, Entregas e Recompensas.;
+                  Para o ciclo utilizaremos os elementos: Jogadores, Conquistas, Entregas e Recompensas.
                 </Text>
                 <Tabs>
                   <TabList>
