@@ -91,7 +91,7 @@ export default function Guide() {
                 O que é gamificação ?
                 </Heading>
                 <Text mb={"8"}>
-                  Consiste em usar técnicas, estratégias e o design de games em outros contextos que não sejam necessariamente associadas aos jogos em si.  É trazer o jogo para a realidade e com isso impactar pontos como engajamento, produtividade, foco, determinação e outros, tornando mais simples atingir metas e objetivos em qualquer contexto.
+                  A Gamificação (ou gamification, em inglês) é a aplicação das estratégias dos jogos nas atividades do dia a dia, com o objetivo de aumentar o engajamento dos participantes. Ela se baseia no game thinking, conceito que abrange a integração da gamificação com outros saberes do meio corporativo e do desing.
                 </Text>
                 <Heading mb={"4"} size="md" fontWeight="normal" alignContent={"left"} textAlign={"left"} alignSelf={'left'}>
                   O que é o PM Game ?
