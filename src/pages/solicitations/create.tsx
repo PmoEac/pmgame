@@ -349,7 +349,8 @@ export default function CreateSolicitation() {
                         <option key={'Agosto'} value={'Agosto'}>Agosto</option>  
                         <option key={'Setembro'} value={'Setembro'}>Setembro</option>  
                         <option key={'Outubro'} value={'Outubro'}>Outubro</option>  
-                        <option key={'Novembro'} value={'Novembro'}>Novembro</option>  
+                        <option key={'Novembro'} value={'Novembro'}>Novembro</option>
+                        <option key={'Dezembro'} value={'Dezembro'}>Dezembro</option>
                       </Select>
                     </Box>
                     
@@ -505,7 +506,8 @@ export default function CreateSolicitation() {
                         <option key={'Agosto'} value={'Agosto'}>Agosto</option>  
                         <option key={'Setembro'} value={'Setembro'}>Setembro</option>  
                         <option key={'Outubro'} value={'Outubro'}>Outubro</option>  
-                        <option key={'Novembro'} value={'Novembro'}>Novembro</option>  
+                        <option key={'Novembro'} value={'Novembro'}>Novembro</option>
+                        <option key={'Dezembro'} value={'Dezembro'}>Dezembro</option>
                       </Select>
                     </Box>
                     
