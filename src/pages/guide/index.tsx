@@ -91,7 +91,7 @@ export default function Guide() {
                 O que é gamificação ?
                 </Heading>
                 <Text mb={"8"}>
-                  A Gamificação (ou gamification, em inglês) é a aplicação da abordagem "Game Thinking", que combina princípios de design de jogos com estratégia de negócios. O conceito se baseia na ideia de que os elementos que tornam os jogos tão atrativos, como desafios, recompensas, progressão e competição saudáveis entre os jogadores. No contexto de Gestão de Projetos, o Game Thinking é usado para tornar as atividades mais interativas e motivadoras, incentivando a colaboração, a criatividade e principalmente o engajamento dos GPs.
+                  A Gamificação (ou gamification, em inglês) é a aplicação da abordagem "Game Thinking", que combina princípios de design de jogos com estratégia de negócios. O conceito se baseia na ideia de que os elementos que tornam os jogos tão atrativos, como desafios, recompensas, progressão e competição saudáveis entre os jogadores, podem ser aplicados para motivar e engajar pessoas em diversas áreas. No contexto de Gestão de Projetos, o Game Thinking é usado para tornar as atividades mais interativas e motivadoras, incentivando a colaboração, a criatividade e principalmente o engajamento dos GPs.
                 </Text>
                 <Heading mb={"4"} size="md" fontWeight="normal" alignContent={"left"} textAlign={"left"} alignSelf={'left'}>
                   O que é o PM Game ?
