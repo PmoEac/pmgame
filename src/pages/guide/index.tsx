@@ -97,13 +97,13 @@ export default function Guide() {
                   O que é o PM Game ?
                 </Heading>
                 <Text mb={"8"}>
-                  Trata-se de um game para incentivar e reconhecer a alta performance dos gerentes de projetos durante o ciclo de gestão da EAC.
+                  Trata-se de um game para incentivar, motivar, engajar e reconhecer a alta performance dos GPs durante o ciclo de gestão de projetos da EAC.
                 </Text>
                 <Heading mb={"4"} size="md" fontWeight="normal" alignContent={"left"} textAlign={"left"} alignSelf={'left'}>
                   Qual é o ciclo do game ?
                 </Heading>
                 <Text mb={"8"}>
-                  O ciclo 2024 da gamificação inicará em 01/05 e finalizará em 31/12.
+                  O ciclo 2024 da gamificação inicia em 01/05 e finaliza em 31/12.
                 </Text>
                 <Heading mb={"4"} size="md" fontWeight="normal" alignContent={"left"} textAlign={"left"} alignSelf={'left'}>
                   Quais são os elementos do game ?
