@@ -41,5 +41,8 @@
     "fauna-shell": "^0.15.0",
     "miragejs": "^0.1.41",
     "typescript": "^4.2.3"
+  },
+  "resolutions": {
+    "postcss": "^8.2.10"
   }
 }
