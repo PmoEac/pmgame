@@ -103,7 +103,7 @@ export default function Guide() {
                   Qual é o ciclo do game ?
                 </Heading>
                 <Text mb={"8"}>
-                  O ciclo 2025 da gamificação inicará em 01/05/25 e finalizará em 31/12/25.
+                  O ciclo 25 da gamificação inicará em 01/05/2025 e finalizará em 31/12/2025.
                 </Text>
                 <Heading mb={"4"} size="md" fontWeight="normal" alignContent={"left"} textAlign={"left"} alignSelf={'left'}>
                   Quais são os elementos do game ?
